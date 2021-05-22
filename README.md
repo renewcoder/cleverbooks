@@ -28,14 +28,16 @@ PYTHON : Python is an interpreted high-level general-purpose programming languag
 WEB APP FRAMEWORK FLASK : Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 
 Screenshots of Project
-
+![1](https://user-images.githubusercontent.com/22359595/119233159-3a4a0880-bb45-11eb-9800-9a54a61c4a34.png)
+![2](https://user-images.githubusercontent.com/22359595/119233175-50f05f80-bb45-11eb-8ba0-6508ac44e1bc.png)
 ![3](https://user-images.githubusercontent.com/22359595/119233152-374f1800-bb45-11eb-96c9-46f18418644e.png)
 ![4](https://user-images.githubusercontent.com/22359595/119233154-38804500-bb45-11eb-82ab-7e54a5168409.png)
 ![5](https://user-images.githubusercontent.com/22359595/119233155-3918db80-bb45-11eb-9341-bbf6a5d349a7.png)
 ![6](https://user-images.githubusercontent.com/22359595/119233156-3918db80-bb45-11eb-9a82-424e78af68d6.png)
 ![7](https://user-images.githubusercontent.com/22359595/119233157-39b17200-bb45-11eb-904c-7eab5f0499ac.png)
-![1](https://user-images.githubusercontent.com/22359595/119233159-3a4a0880-bb45-11eb-9800-9a54a61c4a34.png)
-![2](https://user-images.githubusercontent.com/22359595/119233160-3a4a0880-bb45-11eb-88e0-2e344e440668.png)
+
+
+
 
 
 Contributing
