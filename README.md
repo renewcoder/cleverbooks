@@ -1,5 +1,7 @@
-# cleverbooks
+# CLEVER BOOKS (ONLINE BOOK PORTAL)
 Book Info &amp; Recommendation System in Flask SQLi Python With Admin Panel
+
+![getty_655998316_2000149920009280219_363765](https://user-images.githubusercontent.com/22359595/119232827-310c6c00-bb44-11eb-9073-c0ce882e9534.jpg)
 
 In this project you can setup your online book portal for users where users can add books or give reviews to the given books. 
 
@@ -24,4 +26,6 @@ SERVER SIDE PROGRAMMING LANGUAGE
 PYTHON : Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation.
 
 WEB APP FRAMEWORK FLASK : Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
+
+
 
