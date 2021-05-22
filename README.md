@@ -34,30 +34,27 @@ Screenshots of Project
                                         
 ![2](https://user-images.githubusercontent.com/22359595/119233231-a593da80-bb45-11eb-8cd7-2b3395fa0a9d.png)
 
-                                        Sign-Up Page
+Sign-Up Page
 
 ![3](https://user-images.githubusercontent.com/22359595/119233152-374f1800-bb45-11eb-96c9-46f18418644e.png)
 
-                                        Search Page
+Search Page
                                         
 ![4](https://user-images.githubusercontent.com/22359595/119233154-38804500-bb45-11eb-82ab-7e54a5168409.png)
 
 
-                                        User Profile Page
+User Profile Page
                                         
 ![5](https://user-images.githubusercontent.com/22359595/119233155-3918db80-bb45-11eb-9341-bbf6a5d349a7.png)
-
-                                        Admin Panel Dashboard
+Admin Panel Dashboard
                                         
 ![6](https://user-images.githubusercontent.com/22359595/119233156-3918db80-bb45-11eb-9a82-424e78af68d6.png)
-
-                                        Manage
- Books Page
+Manage Books Page
                                         
 ![7](https://user-images.githubusercontent.com/22359595/119233157-39b17200-bb45-11eb-904c-7eab5f0499ac.png)
 
 
-                                        Manage Users Page
+Manage Users Page
 
 
 
