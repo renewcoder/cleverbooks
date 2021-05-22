@@ -28,4 +28,7 @@ PYTHON : Python is an interpreted high-level general-purpose programming languag
 WEB APP FRAMEWORK FLASK : Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 
 
+Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+Please make sure to update tests as appropriate.
